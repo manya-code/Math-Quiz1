@@ -1,0 +1,39 @@
+h1
+
+{
+color:darkblue;
+font-size: 35;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.bodyStyle
+{
+    background-color: antiquewhite;
+
+}
+
+
+
+    h3
+    {
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+
+  label
+  {
+font-size: medium;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+color:cadetblue;
+  }
+
+  button
+  {
+      font-family:'Gorgia';
+      height: 80px;
+      width:100px;
+      margin-top: 30px;
+      margin-right:450px;
+      font-size: 30px;
+      background-color: lightblue;
+      border-radius: 30px;
+  }
